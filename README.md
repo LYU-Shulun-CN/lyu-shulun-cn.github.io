@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## 格致 - 探索，每一份关于代码的好奇 （demo）
 
-You can use the [editor on GitHub](https://github.com/LYU-Shulun-CN/lyu-shulun-cn.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+各位朋友好，我叫 **吕淑伦** (LYU. Shulun)。我是一名 **前端开发工程师**，... ...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 技术
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1.HTML/CSS/JS;  
+2.jQuery&others;
+3.more...
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### 思考
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### 乐趣
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LYU-Shulun-CN/lyu-shulun-cn.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
