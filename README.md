@@ -1,6 +1,6 @@
 # 🔭格致 - 探索，每一份关于代码的好奇 
 
-> not finished. 👐  
+> Sorry, it's not finished. 👐  
 
 各位朋友好，我叫 **吕淑伦** (LYU. Shulun)。我是一名 **前端开发工程师**，... ...
 
